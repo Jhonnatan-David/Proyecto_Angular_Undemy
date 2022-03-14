@@ -1,0 +1,161 @@
+    1  git --version
+    2  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    3  /Users/familiacifuentes/Documents/CURSOS/Angular 
+    4  cd /Users/familiacifuentes/Documents/CURSOS/Angular 
+    5  pwd
+    6  ls
+    7  git init
+    8  git status
+    9  git add .
+   10  git status
+   11  git commit -m "Inicializando"
+   12  git branch 
+   13  git remote add origin https://github.com/Jhonnatan-David/cursoAngular.git
+   14  git push
+   15  git push -u origin master
+   16  git branch -M main
+   17  git branch -M master
+   18  git push
+   19  ls
+   20  git clone https://github.com/Jhonnatan-David/cursoAngular.git
+   21  ls
+   22  cd cursoAngular/
+   23  code .
+   24  git status
+   25  git add .
+   26  git status
+   27  git commit -m "inicializando repositorio"
+   28  git push
+   29  git push
+   30  git push
+   31  git push
+   32  git push
+   33  git push
+   34  git push
+   35  node -v
+   36  code -v
+   37  vsc -v
+   38  clear
+   39  git push
+   40  git push
+   41  cd /Users/familiacifuentes/Documents/CURSOS/Angular/cursoAngular 
+   42  git status
+   43  git status
+   44  git add
+   45  git add .hola.css
+   46  git status
+   47  git add hola.css 
+   48  git status
+   49  ng help
+   50  clear
+   51  exit
+   52  sudo npm install -g @angular/cli
+   53  ng help
+   54  cd /user/familiaCifuentes/Angular-adv
+   55  clear
+   56  cd /Users/familiacifuentes/Desktop/Angular-adv 
+   57  ng new clitest
+   58  cd 01-clitest/
+   59  ng server -0
+   60  ng serve -o
+   61  ng g c --help
+   62  ng g c --help
+   63  ng g c home is
+   64  ng g c home --is
+   65  ng g c home -is
+   66  ng g c pages/about/about --flat --skipTests
+   67  clear
+   68  ng g c contact --flat -is --skiptests
+   69  ng g c contact --flat -is --skipTests
+   70  clear
+   71  ng g s --dry-run
+   72  ng g c -help
+   73  ng g c --help
+   74  ng serve
+   75  ng g s services/user -d
+   76  ng g s servicess/users -d
+   77  ng g s service/user -d --skipTests
+   78  clear
+   79  ng g s service/user --dry-run
+   80  ls
+   81  ng g s services/user --dry-run
+   82  ng g s services/user --dry-run --skipTests
+   83  ng g s services/user --skipTests
+   84  ng g s services/user --skip-tests
+   85  ng g s services/user --dry-run --skip-tests
+   86  ng g help
+   87  ng g s --help
+   88  clear
+   89  git init
+   90  git commit -m https://github.com/Jhonnatan-David/cursoAngular_Udemy.git
+   91  CLEAR
+   92  exit
+   93  cd /Users/familiacifuentes/Desktop/Angular-adv 
+   94  cd /Users/familiacifuentes/Desktop/Angular-adv/01-clitest 
+   95  git add .
+   96  git init
+   97  git commit -m "Inicializacion del curso Angular Udemy"
+   98  git status
+   99  git add .
+  100  git config --global user.email jhonn.deivi@gmail.com
+  101  git commit --amend
+  102  ng g --help
+  103  ng g guard guard/auth -d
+  104  ng g guard guard/auth -skip-tests
+  105  ng g guard guard/auth --skip-tests
+  106  ng g serve
+  107  ng serve
+  108  ng serve
+  109  ng serve
+  110  clear
+  111  ng g --help
+  112  ng help
+  113  ng --help
+  114  ng g c --help
+  115  cd /Users/familiacifuentes/Desktop/original 
+  116  ng new adminpro
+  117  cd /Users/familiacifuentes/Desktop/Angular-adv/03-adminpro 
+  118  ng serve -o
+  119  ng g c aouth/login --skip-tests -is
+  120  ng g c auth/login --skip-tests -is
+  121  ng g c auth/register --skip-tests -is
+  122  ng g c pages/notpagefound --skip-tests -is
+  123  ng g c pages/dashboard --skip-tests -is
+  124  ng g c shared/breadcrumbs --skip-tests -is
+  125  ng g c shared/sidebar --skip-tests -is
+  126  ng g c shared/header --skip-tests -is
+  127  clear
+  128  ng serve -o
+  129  cler
+  130  clear
+  131  ng serve -o
+  132  cd
+  133  clear
+  134  ng server -o
+  135  ng serve -o
+  136  ng serve -o
+  137  stop
+  138  kill-port --port 4200
+  139  ng kill-port --port 4200
+  140  ng help
+  141  exit
+  142  ng g m appRuting --flat
+  143  ng g c pages/progress -is --skip-test
+  144  ng g c pages/progress -is --skip-tests
+  145  ng g c pages/progress -is --skip-tests
+  146  ng g c pages/progress --skip-tests -s
+  147  clear
+  148  ng g c pages/progress --skip-tests -is
+  149  ng g c pages/progress --skip-import -is
+  150  ng g c pages/grafical1 --skip-tests -is
+  151  ng g c pages/grafical1 --skip-import -is
+  152  clear
+  153  ng serve -o
+  154  ng g c pages/pages --flat --skip-tests -s
+  155  ng g c pages/pages --flat --skip-import -s
+  156   ng serve -o
+  157  ng serve -o
+  158  clear
+  159  ng serve -o
+  160  ls -lh
+  161  history > prueba.txt
